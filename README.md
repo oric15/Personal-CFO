@@ -31,3 +31,18 @@ Sempre execute a partir da raiz do projeto:
 python3 -m streamlit run app.py
 Clique no botão "Refresh Data" no dashboard para iniciar o processamento de dados 
 (Yahoo Finance → FinBERT → Lógica de Sinais).
+
+> ⚠️ **Disclaimer (ENG)**
+> This project is for educational and portfolio purposes only. It does not
+> constitute financial, investment, or trading advice. The BUY/SELL/WATCH
+> signals are the output of an experimental model, have not been validated
+> for real-world use, and past performance does not guarantee future results.
+> Do not make investment decisions based on this tool. Use at your own risk.
+
+> ⚠️ **Aviso (PT)**
+> Este projeto tem fins exclusivamente educativos e de portefólio. Não
+> constitui aconselhamento financeiro, de investimento ou de negociação. Os
+> sinais de COMPRA/VENDA/AGUARDAR são o resultado de um modelo experimental,
+> não foram validados para uso real, e o desempenho passado não garante
+> resultados futuros. Não tomes decisões de investimento com base nesta
+> ferramenta. Utilização por tua conta e risco.
